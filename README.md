@@ -1,6 +1,11 @@
 # Data Engineering: Building a SQL Data Warehouse
 
 ## Project Overview
+
+With the explosion of the latest, cutting-edge Data and AI technologies producing Big Data at the max scale, it is important to create reliable, sustainable, and scalable data storage systems to collect, clean and standardize, and store data for usage.
+
+That is what Data Engineers specialize in, and this is the very role I will be undertaking for this project - that of a Data Engineer with elements of a Data Architect.
+
 The goal of this project is to build a full-scale Data Warehouse - instead of a Data Lake or Date Lakehouse - based on Medallion Architecture, in pgAdmin4 using PostgreSQL.
 
 This project involves:
